@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.image {
+    border: 0;
+}
+
+h1 {
+    background-color: red;
+    color: white;
+}
+
+em {
+    color: blue;
+}
+
+img {
+    border: 3px dashed black;
+}
+
+.link {
+    text-decoration: none;
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
